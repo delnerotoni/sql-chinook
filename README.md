@@ -9,9 +9,10 @@ Aprender e aplicar conceitos de SQL em um banco de dados realista, simulando uma
 ## 🗂️ Estrutura dos Módulos
 
 - `01_exploracao.sql` — Exploração inicial da base: tabelas, estrutura e primeiros insights
-- `02_filtros.sql` — (em breve) Aplicação de filtros, ordenações e cláusulas WHERE
-- `03_joins.sql` — (em breve) Relacionamentos entre tabelas com JOINs
-- `04_agregacoes.sql` — (em breve) Métricas, agrupamentos e funções agregadas
+- `02_filtros.sql` — Aplicação de filtros, ordenações e cláusulas WHERE
+- `03_joins.sql` — Relacionamentos entre tabelas com JOINs
+- `04_agregacoes.sql` — Métricas, agrupamentos e funções agregadas
+- `05_avancado.sql` — Consultas estratégicas: comportamento de clientes, faixas mais vendidas, receita por gênero e análise mensal de faturamento
 
 ## 🛠️ Ferramentas utilizadas
 
